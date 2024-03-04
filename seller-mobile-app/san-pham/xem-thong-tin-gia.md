@@ -1,6 +1,6 @@
 ---
 description: >-
-  Tính năng "Xem thông tin iá" cho phép bạn dễ dàng tra cứu và hiển thị thông
+  Tính năng "Xem thông tin giá" cho phép bạn dễ dàng tra cứu và hiển thị thông
   tin giá của các sản phẩm trong hệ thống. Dưới đây là bước hướng dẫn chi tiết
   để sử dụng tính năng này:
 ---
@@ -15,13 +15,9 @@ description: >-
 
 <figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Xem thông tin giá và trạng thái của sản phẩm tại Danh sách sản phẩm</p></figcaption></figure>
 
-## Lưu ý
-
-Tại Danh sách sản phẩm, với những mã sản phẩm thuộc chương trình mua số lượng, bạn có thể xem được số tiền giảm trên mỗi sản phẩm. Xem thêm tại [**Khuyến mãi Chính sách giá**](https://doc.honganh.vn/\~/changes/NMqRyLG85fmbBPGQnE4a/khuyen-mai-vouchers/xem-va-ap-dung-chinh-sach-gia).
-
 ## Cách 2. Xem báo giá của 01 sản phẩm
 
-### Bước 1: Tại màn hình Danh sách sản phẩm, click 01 card sản phẩm.
+### Bước 1. Tại màn hình Danh sách sản phẩm, click 01 card sản phẩm.
 
 ### Bước 2. Tại màn hình Chi tiết sản phẩm, xem đơn giá tại góc trái màn hình.
 
