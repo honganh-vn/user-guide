@@ -13,4 +13,4 @@
 
 ## Sản phẩm
 
-* [Page 1](san-pham/page-1.md)
+* [Thay đổi kho xuất](san-pham/thay-doi-kho-xuat.md)
