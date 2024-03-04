@@ -5,7 +5,7 @@ description: >-
   năng này:
 ---
 
-# Thay đổi kho xuất
+# Xem và áp dụng Chính sách giá
 
 <figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Thay đổi kho xuất hàng</p></figcaption></figure>
 

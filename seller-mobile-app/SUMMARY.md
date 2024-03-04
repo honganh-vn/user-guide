@@ -14,3 +14,9 @@
 ## Sản phẩm
 
 * [Thay đổi kho xuất](san-pham/thay-doi-kho-xuat.md)
+* [Xem thông tin giá](san-pham/xem-thong-tin-gia.md)
+
+## Khuyến mãi/ vouchers
+
+* [Xem và áp dụng Chính sách giá](khuyen-mai-vouchers/xem-va-ap-dung-chinh-sach-gia.md)
+* [Xem và áp dụng vouchers](khuyen-mai-vouchers/xem-va-ap-dung-vouchers.md)

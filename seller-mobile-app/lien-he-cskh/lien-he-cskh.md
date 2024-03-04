@@ -6,18 +6,14 @@ description: >-
 
 # Liên hệ CSKH
 
-
-
 ### Các kênh liên hệ CSKH
 
 1. Gửi yêu cầu hỗ trợ tại mục Hỗ trợ khách hàng của ứng dụng Đại lý Hồng Anh (đề xuất)
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Gửi yêu cầu hỗ trợ bằng tính năng Hỗ trợ khách hàng trên ứng dụng Đại lý Hồng Anh</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (4).png" alt=""><figcaption><p>Gửi yêu cầu hỗ trợ bằng tính năng Hỗ trợ khách hàng trên ứng dụng Đại lý Hồng Anh</p></figcaption></figure>
 
 2. Liên hệ với số tổng đài CSKH: 0945 416 666
 3. Gửi yêu cầu đến email CSKH: info@honganh.vn
-
-
 
 ### Lưu ý
 
