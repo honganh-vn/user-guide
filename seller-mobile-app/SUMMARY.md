@@ -21,3 +21,4 @@
 
 * [Xem và áp dụng Chính sách giá](khuyen-mai-vouchers/xem-va-ap-dung-chinh-sach-gia.md)
 * [Xem và áp dụng vouchers](khuyen-mai-vouchers/xem-va-ap-dung-vouchers.md)
+* [GIỎ HÀNG](khuyen-mai-vouchers/gi-hang.md)
