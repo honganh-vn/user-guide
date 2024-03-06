@@ -21,4 +21,8 @@
 
 * [Xem và áp dụng Chính sách giá](khuyen-mai-vouchers/xem-va-ap-dung-chinh-sach-gia.md)
 * [Xem và áp dụng vouchers](khuyen-mai-vouchers/xem-va-ap-dung-vouchers.md)
-* [GIỎ HÀNG](khuyen-mai-vouchers/gi-hang.md)
+
+## SẢN PHẨM
+
+* [Thêm và thay đổi số lượng sản phẩm trong giỏ hàng](san-pham-1/them-va-thay-doi-so-luong-san-pham-trong-gio-hang.md)
+* [Thay đổi địa chỉ và số điện thoại nhận hàng](san-pham-1/thay-doi-dia-chi-va-so-dien-thoai-nhan-hang.md)
