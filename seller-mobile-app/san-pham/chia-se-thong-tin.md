@@ -11,19 +11,19 @@ description: >-
 
 ### **Chia sẻ danh sách sản phẩm**
 
-Tại màn hình **Danh sách sản phẩm**, click icon **\[Chia sẻ] .**
+Tại màn hình **Danh sách sản phẩm**, click icon **\[Chia sẻ]** sau đó chọn nền tảng bạn muốn gửi thông tin sản phẩm.
 
 <figure><img src="../.gitbook/assets/image (7).png" alt=""><figcaption><p>Chia sẻ sản phẩm qua nền tảng xã hội khác</p></figcaption></figure>
 
 ### Chia sẻ một số sản phẩm được chọn
 
-Tại mục **Chia sẻ thông tin sản phẩm** của màn hình **Danh sách sản phẩm**, click icon **\[Chọn để sao chép]**.
+Tại mục **Chia sẻ thông tin sản phẩm** của màn hình **Danh sách sản phẩm**, click icon **\[Chọn để sao chép]**. Tìm kiếm (nếu cần) và chọn sản phẩm mà bạn muốn chia sẻ sau đó chọn nền tảng bạn muốn gửi thông tin sản phẩm.
 
 <figure><img src="../.gitbook/assets/image (8).png" alt=""><figcaption><p>Chia se một số sản phẩm được chọn cụ thể qua nền tảng xã hội khác</p></figcaption></figure>
 
 ### Chia sẻ thông tin 01 sản phẩm
 
-Tại mục **Chi tiết** **sản phẩm**, click icon **\[Chia sẻ]**.
+Tại mục **Chi tiết** **sản phẩm**, click icon **\[Chia sẻ]** sau đó chọn nền tảng bạn muốn gửi thông tin sản phẩm.
 
 <figure><img src="../.gitbook/assets/image (9).png" alt=""><figcaption><p>Chia sẻ thông tin chi tiết của 01 sản phẩm qua nền tảng xã hội khác</p></figcaption></figure>
 
