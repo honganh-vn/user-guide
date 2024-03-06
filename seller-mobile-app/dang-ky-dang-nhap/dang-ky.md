@@ -1,10 +1,10 @@
 ---
-description: Hướng dẫn cách đăng ký tài khoản
+description: >-
+  Hướng dẫn cách đăng ký tài khoản để sử dụng ứng dụng Đại lý Hồng Anh. Ứng dụng
+  đại lý Hồng Anh hỗ trợ người dùng có thể đăng ký tài khoản bằng 2 cách:
 ---
 
 # Đăng ký
-
-Ứng dụng đại lý Hồng Anh hỗ trợ người dùng có thể đăng ký tài khoản bằng 2 cách:
 
 ## Cách 1: Đăng ký bằng tài khoản Google:
 

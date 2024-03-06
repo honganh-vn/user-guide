@@ -13,6 +13,7 @@
 
 ## Sản phẩm
 
+* [Tìm kiếm sản phẩm](san-pham/tim-kiem-san-pham.md)
 * [Thay đổi kho xuất](san-pham/thay-doi-kho-xuat.md)
 * [Chia sẻ thông tin](san-pham/chia-se-thong-tin.md)
 * [Xem thông tin giá](san-pham/xem-thong-tin-gia.md)

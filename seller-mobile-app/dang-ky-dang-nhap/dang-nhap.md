@@ -1,10 +1,10 @@
 ---
-description: Hướng dẫn cách đăng nhập vào ứng dụng
+description: >-
+  Hướng dẫn cách đăng nhập vào ứng dụng Đại lý Hồng Anh. Ứng dụng Đại lý Hồng
+  Anh hỗ trợ Đại lý có thể thực hiện đăng nhập bằng những cách sau:
 ---
 
 # Đăng nhập
-
-Ứng dụng Đại lý Hồng Anh hỗ trợ Đại lý có thể thực hiện đăng nhập bằng những cách sau:
 
 ## Cách 1: Đăng nhập bằng tài khoản Google
 
