@@ -32,6 +32,8 @@ Lúc đó, ứng dụng sẽ hiển thị danh sách tất cả các sản phẩ
 
 <figure><img src="../.gitbook/assets/TÌm kiếm theo bộ lọc.png" alt=""><figcaption><p>Tìm kiếm theo bộ lọc danh mục sản phẩm</p></figcaption></figure>
 
+5. Để huỷ lọc: Chọn "**Bộ lọc**" -> chọn "**Thiết lập lại**"
+
 ### 2.2 Tìm kiếm theo thương hiệu sản phẩm
 
 #### Cách 1: Tại trang chủ, chọn 1 thương hiệu bất kỳ tại phần "Thương hiệu nổi bật"
@@ -51,7 +53,7 @@ Lúc đó, ứng dụng sẽ hiển thị danh sách tất cả các sản phẩ
 #### Sắp xếp từ mới nhất đến cũ nhất
 
 1. Bạn có thể sắp xếp danh sách sản phẩm từ mới đến cũ bằng cách chọn vào "**Mới nhất**"
-2. Chọn lại vào "**Mới nhất**" để huỷ sắp xếp
+2. Để huỷ sắp xếp: Chọn lại vào "**Mới nhất**"
 
 <figure><img src="../.gitbook/assets/TÌm kiếm theo bộ lọc_ Bộ lọc tuỳ chỉnh Mới.png" alt=""><figcaption><p>Sắp xếp từ mới đến cũ</p></figcaption></figure>
 
@@ -61,18 +63,31 @@ Bạn có thể sắp xếp danh sách sản phẩm theo giá của sản phẩm
 
 1. Chọn "**Giá**", ứng dụng sẽ sắp xếp danh sách sản phẩm theo giá từ thấp đến cao
 2. Tiếp tục chọn "**Giá**", ứng dụng sẽ sắp xếp danh sách sản phẩm theo giá từ cao đến thấp
-3. Chọn lại vào "**Giá**" để huỷ sắp xếp
+3. Để huỷ sắp xếp: Tiếp tục chọn lại vào "**Giá**"&#x20;
 
 <figure><img src="../.gitbook/assets/TÌm kiếm theo bộ lọc_ Bộ lọc tuỳ chỉnh giá.png" alt=""><figcaption><p>Sắp xếp theo giá sản phẩm</p></figcaption></figure>
 
 #### Lọc theo giá sản phẩm
 
-1. Chọn "Bộ lọc"
+1. Tại danh sách sản phẩm, chọn "**Bộ lọc**"
 2. Nhập khoảng giá của sản phẩm mà bạn mong muốn tìm kiếm.
 
-* Nếu bạn nhập cả 2&#x20;
+* Nếu nhập cả 2 ô giá trị **Từ** -> **Đến**: Ứng dụng sẽ lọc ra các sản phẩm nằm trong khoảng giá mà bạn nhập&#x20;
+* Nếu chỉ nhập giá trị **Từ**: Ứng dụng sẽ lọc ra các sản phẩm có giá  ≥ giá trị **Từ**
+* Nếu chỉ nhập giá trị **Đến**: Ứng dụng sẽ lọc ra các sản phẩm có giá ≤ giá trị **Đến**
 
-1. Chọn "Áp dụng"
+3. Chọn "**Áp dụng**" để áp dụng bộ lọc mà bạn vừa chọn
 
-<figure><img src="../.gitbook/assets/TÌm kiếm theo bộ lọc_ Bộ lọc tuỳ chỉnh giá lọc.png" alt=""><figcaption></figcaption></figure>
+<figure><img src="../.gitbook/assets/TÌm kiếm theo bộ lọc_ Bộ lọc tuỳ chỉnh giá lọc.png" alt=""><figcaption><p>Bộ lọc giá sản phẩm</p></figcaption></figure>
 
+5. Để huỷ lọc: Chọn "**Bộ lọc**" -> chọn "**Thiết lập lại**"
+
+#### Lọc theo trạng thái sản phẩm
+
+1. Tại danh sách sản phẩm, chọn "**Bộ lọc**"
+2. Chọn vào "Còn hàng" để lọc ra những sản phẩm có trạng thái tồn kho là: Còn hàng
+3. Chọn "**Áp dụng**" để áp dụng bộ lọc mà bạn vừa chọn
+
+<figure><img src="../.gitbook/assets/TÌm kiếm theo bộ lọc_ Bộ lọc tuỳ chỉnh trạng thái sp.png" alt=""><figcaption><p>Bộ lọc trạng thái sản phẩm</p></figcaption></figure>
+
+4. Để huỷ lọc: Chọn "**Bộ lọc**" -> chọn "**Thiết lập lại**"
