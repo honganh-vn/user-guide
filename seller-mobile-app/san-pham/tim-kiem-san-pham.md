@@ -6,7 +6,7 @@ description: >-
 
 # Tìm kiếm sản phẩm
 
-Cách 1: Tìm kiếm theo tên sản phẩm
+## Cách 1: Tìm kiếm theo tên sản phẩm
 
 1. Chọn vào ô tìm kiếm
 2. Nhập tên sản phẩm bạn muốn tìm
