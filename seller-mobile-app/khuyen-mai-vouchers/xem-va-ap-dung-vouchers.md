@@ -1,16 +1,12 @@
 ---
 description: >-
-  Tính năng "Xem thông tin iá" cho phép bạn dễ dàng tra cứu và hiển thị thông
-  tin giá của các sản phẩm trong hệ thống. Dưới đây là bước hướng dẫn chi tiết
-  để sử dụng tính năng này:
+  Tính năng này cho phép bạn tận dụng ưu đãi và giảm giá đặc biệt thông qua việc
+  sử dụng vouchers khi thanh toán đơn hàng. Dưới đây là bước hướng dẫn chi tiết
+  để sử dụng tính năng này
 ---
 
 # Xem và áp dụng vouchers
 
-## Cách 1. Xem báo giá của danh sách sản phẩm
+Tại màn hình **Giỏ hàng**, chọn mục **\[Mã giảm giá]** (_ngay trên mục Tổng thanh toán của giỏ hàng_) sau đó chọn mã giảm giá và click button **\[Xác nhận]** để áp dụng giảm giá cho giỏ hàng của bạn.
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Xem thông tin giá và trạng thái của sản phẩm tại Danh sách sản phẩm</p></figcaption></figure>
-
-Lưu ý: Tại Danh sách sản phẩm, với những mã sản phẩm thuộc chương trình mua số lượng, bạn có thể xem được số tiền giảm trên mỗi sản phẩm. Xem thêm tại Khuyến mãi Chính sách giá.
-
-## Cách 2. Xem báo giá của 01 sản phẩm
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Xem và áp dụng vouchers tại Giỏ hàng</p></figcaption></figure>

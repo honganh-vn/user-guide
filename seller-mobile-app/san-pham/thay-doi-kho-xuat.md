@@ -7,7 +7,7 @@ description: >-
 
 # Thay đổi kho xuất
 
-<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Thay đổi kho xuất hàng</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1).png" alt=""><figcaption><p>Thay đổi kho xuất hàng</p></figcaption></figure>
 
 Lưu ý: Khi thay đổi kho xuất, trạng thái của sản phẩm sẽ thay đổi theo số lượng tồn của từng kho.
 
