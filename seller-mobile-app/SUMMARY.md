@@ -23,7 +23,9 @@
 * [Xem và áp dụng Chính sách giá](khuyen-mai-vouchers/xem-va-ap-dung-chinh-sach-gia.md)
 * [Xem và áp dụng vouchers](khuyen-mai-vouchers/xem-va-ap-dung-vouchers.md)
 
-## SẢN PHẨM
+## GIỎ HÀNG
 
-* [Thêm và thay đổi số lượng sản phẩm trong giỏ hàng](san-pham-1/them-va-thay-doi-so-luong-san-pham-trong-gio-hang.md)
-* [Thay đổi địa chỉ và số điện thoại nhận hàng](san-pham-1/thay-doi-dia-chi-va-so-dien-thoai-nhan-hang.md)
+* [Thêm và thay đổi số lượng sản phẩm trong giỏ hàng](gi-hang/them-va-thay-doi-so-luong-san-pham-trong-gio-hang.md)
+* [Thêm hoặc Thay đổi thông tin nhận hàng](gi-hang/them-hoac-thay-doi-thong-tin-nhan-hang.md)
+* [Xem và áp dụng khuyến mãi](gi-hang/xem-va-ap-dung-khuyen-mai.md)
+* [Trả giá sản phẩm](gi-hang/tra-gia-san-pham.md)
