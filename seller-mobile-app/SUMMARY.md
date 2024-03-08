@@ -29,3 +29,4 @@
 * [Thêm hoặc Thay đổi thông tin nhận hàng](gi-hang/them-hoac-thay-doi-thong-tin-nhan-hang.md)
 * [Xem và áp dụng khuyến mãi](gi-hang/xem-va-ap-dung-khuyen-mai.md)
 * [Trả giá sản phẩm](gi-hang/tra-gia-san-pham.md)
+* [Hình thức vận chuyển](gi-hang/hinh-thuc-van-chuyen.md)
