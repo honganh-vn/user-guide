@@ -30,3 +30,4 @@
 * [Xem và áp dụng khuyến mãi](gi-hang/xem-va-ap-dung-khuyen-mai.md)
 * [Trả giá sản phẩm](gi-hang/tra-gia-san-pham.md)
 * [Hình thức vận chuyển](gi-hang/hinh-thuc-van-chuyen.md)
+* [Phương thức thanh toán](gi-hang/phuong-thuc-thanh-toan.md)

@@ -10,13 +10,13 @@ description: >-
 
 Nếu bạn muốn thêm thông tin nhận hàng mới, bạn vui lòng thực hiện theo các bước sau:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Thêm mới địa chỉ nhận hàng</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1).png" alt=""><figcaption><p>Thêm mới địa chỉ nhận hàng</p></figcaption></figure>
 
 ### Chỉnh sửa thông tin nhận hàng
 
 Nếu bạn đang muốn chỉnh sửa thông tin nhận hàng, bạn vui lòng thực hiện theo các bước sau:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Chỉnh sửa địa chỉ nhận hàng</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Chỉnh sửa địa chỉ nhận hàng</p></figcaption></figure>
 
 ### Lưu ý
 
