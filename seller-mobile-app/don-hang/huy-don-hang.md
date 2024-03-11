@@ -19,8 +19,8 @@ Bạn hoàn toàn có thể thực hiện Hủy đơn hàng theo 2 cách sau:
 
 Tại đây, bạn có thể thực hiện chọn:
 
-* Lựa chọn 1: Đóng cửa sổ và không thực hiện việc hủy đơn
-* Lựa chọn 2: Thực hiện việc hủy bỏ đơn hàng.
+* Lựa chọn 1: Chọn "**Đóng**" để đóng cửa sổ và không thực hiện việc hủy đơn.
+* Lựa chọn 2: Chọn "**Hủy bỏ**" để thực hiện việc hủy bỏ đơn hàng.
 
 Tương tự như cách trên, bạn cũng có thể thực hiện việc hủy đơn ngay tại màn xem chi tiết của đơn hàng.
 
