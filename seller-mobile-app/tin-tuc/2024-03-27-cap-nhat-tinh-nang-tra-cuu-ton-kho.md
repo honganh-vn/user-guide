@@ -6,7 +6,7 @@ Từ phiên bản 1.0.40, các đại lý đã có thể xem được số lư�
 
 * Sẵn kho: Hàng sẵn kho ở khu vực hiện tại của đại lý
 * Cần luân chuyển kho: Hết hàng ở khu vực hiện tại của Đại lý, tuy nhiên vẫn còn hàng ở các kho khác, và cần thời gian để luân chuyển kho.
-* Cần load NCN: Các kho Hồng Anh đều hết hàng, và cần load từ các nhà cung cấp
+* Cần load NCC: Các kho Hồng Anh đều hết hàng, và cần load từ các nhà cung cấp
 
 <figure><img src="../.gitbook/assets/image (38).png" alt=""><figcaption></figcaption></figure>
 
