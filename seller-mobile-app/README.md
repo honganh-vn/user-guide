@@ -4,6 +4,4 @@ description: Welcome
 
 # Welcome
 
-Hello team Alpha
-
-Xin chào
+Chào mừng bạn đến với trang hướng dẫn sử dụng các tính năng trên ứng dụng Đại lý Hồng Anh
