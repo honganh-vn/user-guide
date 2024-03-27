@@ -2,6 +2,10 @@
 
 * [Welcome](README.md)
 
+## Tin tức
+
+* [\[2024-03-27\] Cập nhật tính năng tra cứu tồn kho](tin-tuc/2024-03-27-cap-nhat-tinh-nang-tra-cuu-ton-kho.md)
+
 ## Đăng ký/Đăng nhập
 
 * [Đăng ký](dang-ky-dang-nhap/dang-ky.md)
@@ -37,7 +41,3 @@
 * [Xem trạng thái của đơn hàng](don-hang/xem-trang-thai-cua-don-hang.md)
 * [Mua lại đơn hàng](don-hang/mua-lai-don-hang.md)
 * [Hủy đơn hàng](don-hang/huy-don-hang.md)
-
-## Tin tức
-
-* [\[2024-03-27\] Cập nhật tính năng tra cứu tồn kho](tin-tuc/2024-03-27-cap-nhat-tinh-nang-tra-cuu-ton-kho.md)
