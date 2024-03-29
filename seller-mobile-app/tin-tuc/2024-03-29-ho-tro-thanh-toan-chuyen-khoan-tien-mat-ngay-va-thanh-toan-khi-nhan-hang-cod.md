@@ -2,7 +2,7 @@
 
 Hồng Anh trân trọng thông báo tới quý khách hàng:
 
-Từ phiên bản 1.0.41, bên cạnh phương thức thanh toán “Công nợ”, ứng dụng Đại lý Hồng Anh đã hỗ trợ đại lý lựa chọn thêm 02 phương thức khác: “Chuyển khoản/ tiền mặt ngay” hoặc “Thanh toán khi nhận hàng (COD)” .
+Từ **phiên bản 1.0.41**, bên cạnh phương thức thanh toán “Công nợ”, ứng dụng Đại lý Hồng Anh đã hỗ trợ đại lý lựa chọn thêm 02 phương thức khác: **“Chuyển khoản/ tiền mặt ngay”** hoặc **“Thanh toán khi nhận hàng (COD)”** .
 
 * Phương thức “Chuyển khoản/ tiền mặt ngay”: hỗ trợ bạn có thể thanh toán trước cho đơn hàng (tức là, ngay sau khi tạo đơn thành công, bạn sẽ thực hiện thanh toán đơn hàng theo hướng dẫn chuyển khoản).
 * Phương thức “Thanh toán khi nhận hàng”: hỗ trợ bạn thanh toán khi giao vận giao hàng cho bạn.
