@@ -4,6 +4,7 @@
 
 ## Tin tức
 
+* [\[2024-03-29\] Hỗ trợ thanh toán: Chuyển khoản/ tiền mặt ngay và Thanh toán khi nhận hàng (COD)](tin-tuc/2024-03-29-ho-tro-thanh-toan-chuyen-khoan-tien-mat-ngay-va-thanh-toan-khi-nhan-hang-cod.md)
 * [\[2024-03-27\] Cập nhật tính năng tra cứu tồn kho](tin-tuc/2024-03-27-cap-nhat-tinh-nang-tra-cuu-ton-kho.md)
 
 ## Đăng ký/Đăng nhập

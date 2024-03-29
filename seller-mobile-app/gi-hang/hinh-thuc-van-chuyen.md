@@ -17,7 +17,7 @@ description: Tính năng cho phép bạn chọn hình thức vận chuyển cho 
 
 Để lựa chọn hình thức vận chuyển phù hợp cho đơn hàng, bạn vui lòng thực hiện theo các bước sau:
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Lựa chọn hình thức vận chuyển</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Lựa chọn hình thức vận chuyển</p></figcaption></figure>
 
 ### Lưu ý:
 
