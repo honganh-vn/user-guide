@@ -29,7 +29,7 @@ Bạn cần cung cấp đầy đủ thông tin sau về nhà xe để Hồng Anh
 * Số điện thoại nhà xe
 * Bến xe đỗ
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Chọn hình thức vận chuyển là Nhà xe</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Chọn hình thức vận chuyển là Nhà xe</p></figcaption></figure>
 
 #### 2. Hình thức vận chuyển là Chuyển phát
 

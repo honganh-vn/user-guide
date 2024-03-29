@@ -7,7 +7,7 @@ Từ phiên bản 1.0.41, bên cạnh phương thức thanh toán “Công nợ�
 * Phương thức “Chuyển khoản/ tiền mặt ngay”: hỗ trợ bạn có thể thanh toán trước cho đơn hàng (tức là, ngay sau khi tạo đơn thành công, bạn sẽ thực hiện thanh toán đơn hàng theo hướng dẫn chuyển khoản).
 * Phương thức “Thanh toán khi nhận hàng”: hỗ trợ bạn thanh toán khi giao vận giao hàng cho bạn.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Danh sách các phương thức thanh toán hỗ trợ</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Danh sách phương thức thanh toán hỗ trợ</p></figcaption></figure>
 
 Để cập nhật phiên bản mới, đại lý vui lòng truy cập các ứng dụng store trên từng nền tảng ở dưới để cập nhật bản mới nhất.
 
