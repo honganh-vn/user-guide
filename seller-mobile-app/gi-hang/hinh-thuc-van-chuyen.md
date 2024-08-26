@@ -35,5 +35,5 @@ Bạn cần cung cấp đầy đủ thông tin sau về nhà xe để Hồng Anh
 
 Với hình thức này, bạn vui lòng chọn đơn vị chuyển phát và loại vận chuyển tương ứng với mỗi đơn vị.
 
-<figure><img src="../.gitbook/assets/image (3).png" alt=""><figcaption><p>Chọn hình thức vận chuyển là Chuyển phát</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>Chọn hình thức vận chuyển là Chuyển phát</p></figcaption></figure>
 

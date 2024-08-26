@@ -13,7 +13,7 @@ description: >-
 
 ### Bước 2. Xem đơn giá tại góc trái mỗi card sản phẩm. Lưu ý: với những mã sản phẩm chưa có thông tin&#x20;
 
-<figure><img src="../.gitbook/assets/image (1) (1) (1) (1).png" alt=""><figcaption><p>Xem thông tin giá và trạng thái của sản phẩm tại Danh sách sản phẩm</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (1) (1) (1) (1).png" alt=""><figcaption><p>Xem thông tin giá và trạng thái của sản phẩm tại Danh sách sản phẩm</p></figcaption></figure>
 
 ## Cách 2. Xem báo giá của 01 sản phẩm
 
