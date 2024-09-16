@@ -1,13 +1,16 @@
 # Table of contents
 
 * [WELCOME](README.md)
-* [CÂU HỎI THƯỜNG GẶP](cau-h-i-thuong-gap.md)
 
 ## Tin tức
 
 * [\[2024-04-04\] Xử lý lỗi crash app trên Android](tin-tuc/2024-04-04-xu-ly-loi-crash-app-tren-android.md)
 * [\[2024-03-29\] Hỗ trợ thanh toán: Chuyển khoản/ tiền mặt ngay và Thanh toán khi nhận hàng (COD)](tin-tuc/2024-03-29-ho-tro-thanh-toan-chuyen-khoan-tien-mat-ngay-va-thanh-toan-khi-nhan-hang-cod.md)
 * [\[2024-03-27\] Cập nhật tính năng tra cứu tồn kho](tin-tuc/2024-03-27-cap-nhat-tinh-nang-tra-cuu-ton-kho.md)
+
+## CÂU HỎI THƯỜNG GẶP <a href="#cau-hoi-thuong-gap" id="cau-hoi-thuong-gap"></a>
+
+* [Làm thế nào để tôi hủy đơn?](cau-hoi-thuong-gap/lam-the-nao-de-toi-huy-don.md)
 
 ## Đăng ký/Đăng nhập
 
