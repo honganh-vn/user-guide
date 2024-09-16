@@ -1,6 +1,7 @@
 # Table of contents
 
-* [Welcome](README.md)
+* [WELCOME](README.md)
+* [CÂU HỎI THƯỜNG GẶP](cau-h-i-thuong-gap.md)
 
 ## Tin tức
 
