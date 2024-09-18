@@ -12,38 +12,26 @@
 
 * [Làm thế nào để tôi hủy đơn?](cau-hoi-thuong-gap/lam-the-nao-de-toi-huy-don.md)
 
-## Đăng ký/Đăng nhập
+## Hướng dẫn sử dụng
 
-* [Đăng ký](dang-ky-dang-nhap/dang-ky.md)
-* [Đăng nhập](dang-ky-dang-nhap/dang-nhap.md)
+* [Đăng ký](huong-dan-su-dung/dang-ky.md)
+* [Đăng nhập](huong-dan-su-dung/dang-nhap.md)
+* [Liên hệ CSKH](huong-dan-su-dung/lien-he-cskh.md)
+* [Tìm kiếm sản phẩm](huong-dan-su-dung/tim-kiem-san-pham.md)
+* [Thay đổi kho xuất](huong-dan-su-dung/thay-doi-kho-xuat.md)
+* [Chia sẻ thông tin](huong-dan-su-dung/chia-se-thong-tin.md)
+* [Xem thông tin giá](huong-dan-su-dung/xem-thong-tin-gia.md)
+* [Xem và áp dụng Chính sách giá](huong-dan-su-dung/xem-va-ap-dung-chinh-sach-gia.md)
 
-## Liên hệ CSKH
+***
 
-* [Liên hệ CSKH](lien-he-cskh/lien-he-cskh.md)
-
-## Sản phẩm
-
-* [Tìm kiếm sản phẩm](san-pham/tim-kiem-san-pham.md)
-* [Thay đổi kho xuất](san-pham/thay-doi-kho-xuat.md)
-* [Chia sẻ thông tin](san-pham/chia-se-thong-tin.md)
-* [Xem thông tin giá](san-pham/xem-thong-tin-gia.md)
-
-## Khuyến mãi/ vouchers
-
-* [Xem và áp dụng Chính sách giá](khuyen-mai-vouchers/xem-va-ap-dung-chinh-sach-gia.md)
-* [Xem và áp dụng vouchers](khuyen-mai-vouchers/xem-va-ap-dung-vouchers.md)
-
-## GIỎ HÀNG
-
-* [Thêm và thay đổi số lượng sản phẩm trong giỏ hàng](gi-hang/them-va-thay-doi-so-luong-san-pham-trong-gio-hang.md)
-* [Thêm hoặc Thay đổi thông tin nhận hàng](gi-hang/them-hoac-thay-doi-thong-tin-nhan-hang.md)
-* [Xem và áp dụng khuyến mãi](gi-hang/xem-va-ap-dung-khuyen-mai.md)
-* [Trả giá sản phẩm](gi-hang/tra-gia-san-pham.md)
-* [Hình thức vận chuyển](gi-hang/hinh-thuc-van-chuyen.md)
-* [Phương thức thanh toán](gi-hang/phuong-thuc-thanh-toan.md)
-
-## ĐƠN HÀNG
-
-* [Xem trạng thái của đơn hàng](don-hang/xem-trang-thai-cua-don-hang.md)
-* [Mua lại đơn hàng](don-hang/mua-lai-don-hang.md)
-* [Hủy đơn hàng](don-hang/huy-don-hang.md)
+* [Thêm và thay đổi số lượng sản phẩm trong giỏ hàng](them-va-thay-doi-so-luong-san-pham-trong-gio-hang.md)
+* [Xem và áp dụng vouchers](xem-va-ap-dung-vouchers.md)
+* [Thêm hoặc Thay đổi thông tin nhận hàng](them-hoac-thay-doi-thong-tin-nhan-hang.md)
+* [Xem và áp dụng khuyến mãi](xem-va-ap-dung-khuyen-mai.md)
+* [Trả giá sản phẩm](tra-gia-san-pham.md)
+* [Hình thức vận chuyển](hinh-thuc-van-chuyen.md)
+* [Phương thức thanh toán](phuong-thuc-thanh-toan.md)
+* [Xem trạng thái của đơn hàng](xem-trang-thai-cua-don-hang.md)
+* [Mua lại đơn hàng](mua-lai-don-hang.md)
+* [Hủy đơn hàng](huy-don-hang.md)

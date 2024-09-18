@@ -16,7 +16,7 @@ description: Tính năng cho phép bạn chọn phương thức thanh toán cho 
 
 Để lựa chọn phương thức thanh toán phù hợp cho đơn hàng, bạn vui lòng thực hiện theo các bước sau:
 
-<figure><img src="../.gitbook/assets/image (39).png" alt=""><figcaption><p>Thay đổi phương thức thanh toán</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (39).png" alt=""><figcaption><p>Thay đổi phương thức thanh toán</p></figcaption></figure>
 
 **Xem hướng dẫn thanh toán Chuyển khoản/ tiền mặt ngay**
 
@@ -24,14 +24,14 @@ Sau khi tạo đơn thành công, bạn có thể xem hướng dẫn chuyển kh
 
 Tại màn hình Hướng dẫn chuyển khoản, bạn sẽ thực hiện chuyển tiền theo thông tin ngân hàng, nội dung chuyển khoản và số tiền chuyển khoản mà chúng tôi đã hướng dẫn hoặc thao tác quét mã QR code.
 
-<figure><img src="../.gitbook/assets/image.png" alt=""><figcaption><p>Cách 1. Ngay khi tạo đơn hàng thành công, bạn truy cập Hướng dẫn chuyển khoản</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image.png" alt=""><figcaption><p>Cách 1. Ngay khi tạo đơn hàng thành công, bạn truy cập Hướng dẫn chuyển khoản</p></figcaption></figure>
 
-<figure><img src="../.gitbook/assets/image (1).png" alt=""><figcaption><p>Cách 2. Ngay tại màn hình Xem chi tiết đơn hàng, bạn truy cập Hướng dẫn</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (1).png" alt=""><figcaption><p>Cách 2. Ngay tại màn hình Xem chi tiết đơn hàng, bạn truy cập Hướng dẫn</p></figcaption></figure>
 
 **Thực hiện chuyển khoản thanh toán đơn hàng**
 
 Sau khi đơn hàng được nhân viên vận hành duyệt đơn thành công, bạn có 24 giờ kể từ thời điểm duyệt để hoàn tất thanh toán cho chúng tôi. Các thao tác để thực hiện thanh toán như sau:
 
-<figure><img src="../.gitbook/assets/image (2).png" alt=""><figcaption><p>Thực hiện chuyển khoản thanh toán đơn hàng</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2).png" alt=""><figcaption><p>Thực hiện chuyển khoản thanh toán đơn hàng</p></figcaption></figure>
 
 **Lưu ý: Nếu đơn hàng của bạn chưa hỗ trợ công nợ hoặc hạn mức công nợ, vui lòng chọn phương thức Chuyển khoản/tiền mặt ngay hoặc Thanh toán khi nhận hàng (COD) hoặc** [**liên hệ Hồng Anh**](broken-reference)**.**

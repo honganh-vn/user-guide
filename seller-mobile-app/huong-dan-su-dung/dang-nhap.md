@@ -45,4 +45,4 @@ Nếu bạn đã được Hồng Anh cung cấp tài khoản và mật khẩu đ
 
 ## <mark style="color:red;">Lưu ý:</mark>
 
-Bạn cần trở thành đại lý của Hồng Anh để có thể thực hiện mua hàng. Để đăng ký trở thành đại lý, hãy [Liên hệ CSKH](../lien-he-cskh/lien-he-cskh.md) và thực hiện yêu cầu đăng ký làm đại lý
+Bạn cần trở thành đại lý của Hồng Anh để có thể thực hiện mua hàng. Để đăng ký trở thành đại lý, hãy [Liên hệ CSKH](lien-he-cskh.md) và thực hiện yêu cầu đăng ký làm đại lý

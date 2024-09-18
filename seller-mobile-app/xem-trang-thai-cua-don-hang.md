@@ -25,10 +25,10 @@ description: >-
 
 Tại danh sách đơn hàng, bạn có thể xem nhanh trạng thái của đơn theo cách sau:
 
-<figure><img src="../.gitbook/assets/image (37).png" alt=""><figcaption><p>Xem trạng thái tại danh sách đơn hàng</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (37).png" alt=""><figcaption><p>Xem trạng thái tại danh sách đơn hàng</p></figcaption></figure>
 
 #### 2. Xem trạng thái tại chi tiết đơn hàng
 
 Tại chi tiết đơn hàng, bạn có thể thực hiện theo dõi trạng thái chi tiết của từng đơn hàng theo các bước sau đây:&#x20;
 
-<figure><img src="../.gitbook/assets/image (36).png" alt=""><figcaption><p>Xem chi tiết trạng thái đơn hàng</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (36).png" alt=""><figcaption><p>Xem chi tiết trạng thái đơn hàng</p></figcaption></figure>

@@ -15,7 +15,7 @@ Bạn hoàn toàn có thể thực hiện mua lại đơn hàng theo 2 cách sau
 
 Để thực hiện mua lại đơn hàng, bạn vui lòng thực hiện theo các cách sau:
 
-<figure><img src="../.gitbook/assets/image (34).png" alt=""><figcaption><p>Mua lại đơn hàng 1</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (34).png" alt=""><figcaption><p>Mua lại đơn hàng 1</p></figcaption></figure>
 
 ### Lưu ý
 
@@ -24,4 +24,4 @@ Bạn hoàn toàn có thể thực hiện mua lại đơn hàng theo 2 cách sau
   * Lựa chọn 1: Chọn "**Đóng**" khi bạn không muốn cấp nhật lại giỏ hàng hiện tại.
   * Lựa chọn 2: chọn "**Xác nhận**" nếu bạn muốn thay thế giỏ hàng hiện tại thành giỏ hàng chứa các thông tin của đơn hàng mà bạn đang muốn mua lại.
 
-<figure><img src="../.gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Mua lại đơn hàng 2</p></figcaption></figure>
+<figure><img src=".gitbook/assets/image (2) (1).png" alt=""><figcaption><p>Mua lại đơn hàng 2</p></figcaption></figure>

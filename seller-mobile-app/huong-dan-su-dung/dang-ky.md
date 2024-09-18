@@ -40,4 +40,4 @@ Nếu tài khoản được đăng ký thành công, bạn có thể truy cập 
 ## <mark style="color:red;">Lưu ý:</mark>
 
 * Khi đăng ký thành công, tài khoản của bạn sẽ được phép trải nghiệm sử dụng ứng dụng, bạn cần trở thành đại lý của Hồng Anh để có thể thực hiện mua hàng
-* Bạn có thể đăng ký trở thành đại lý của Hồng Anh bằng cách [Liên hệ CSKH](../lien-he-cskh/lien-he-cskh.md) và thực hiện yêu cầu đăng ký làm đại lý
+* Bạn có thể đăng ký trở thành đại lý của Hồng Anh bằng cách [Liên hệ CSKH](lien-he-cskh.md) và thực hiện yêu cầu đăng ký làm đại lý
