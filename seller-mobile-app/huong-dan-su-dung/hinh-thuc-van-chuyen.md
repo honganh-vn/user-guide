@@ -17,7 +17,7 @@ description: Tính năng cho phép bạn chọn hình thức vận chuyển cho 
 
 Để lựa chọn hình thức vận chuyển phù hợp cho đơn hàng, bạn vui lòng thực hiện theo các bước sau:
 
-<figure><img src=".gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Lựa chọn hình thức vận chuyển</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (1) (2).png" alt=""><figcaption><p>Lựa chọn hình thức vận chuyển</p></figcaption></figure>
 
 ### Lưu ý:
 
@@ -29,11 +29,11 @@ Bạn cần cung cấp đầy đủ thông tin sau về nhà xe để Hồng Anh
 * Số điện thoại nhà xe
 * Bến xe đỗ
 
-<figure><img src=".gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Chọn hình thức vận chuyển là Nhà xe</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (2) (2).png" alt=""><figcaption><p>Chọn hình thức vận chuyển là Nhà xe</p></figcaption></figure>
 
 #### 2. Hình thức vận chuyển là Chuyển phát
 
 Với hình thức này, bạn vui lòng chọn đơn vị chuyển phát và loại vận chuyển tương ứng với mỗi đơn vị.
 
-<figure><img src=".gitbook/assets/image (3) (2).png" alt=""><figcaption><p>Chọn hình thức vận chuyển là Chuyển phát</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (3) (2).png" alt=""><figcaption><p>Chọn hình thức vận chuyển là Chuyển phát</p></figcaption></figure>
 

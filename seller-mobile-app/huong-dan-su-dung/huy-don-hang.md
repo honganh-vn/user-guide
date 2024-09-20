@@ -15,7 +15,7 @@ Bạn hoàn toàn có thể thực hiện Hủy đơn hàng theo 2 cách sau:
 
 Để thực hiện hủy đơn hàng ngay tại màn Danh sách đơn hàng, bạn vui lòng thực hiện theo các bước sau:
 
-<figure><img src=".gitbook/assets/image (33).png" alt=""><figcaption><p>Hủy đơn hàng tại Danh sách sản phẩm</p></figcaption></figure>
+<figure><img src="../.gitbook/assets/image (33).png" alt=""><figcaption><p>Hủy đơn hàng tại Danh sách sản phẩm</p></figcaption></figure>
 
 Tại đây, bạn có thể thực hiện chọn:
 
